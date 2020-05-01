@@ -1,0 +1,36 @@
+{
+    "data":{
+        "data":{
+            "coming":[],
+            "hots":[
+                {
+                    "bingeWatch":0,
+                    "boxInfo":"上映12天, 累计票房221564万",
+                    "cat":"剧情,传记",
+                    "civilPubSt":0,
+                    "desc":"主演:张涵予,欧豪,杜江",
+                    "dir":"刘伟强",
+                    "dur":111,
+                    "effectShowNum":0,
+                    "id":1230121,
+                    "img":"http://p0.meituan.net/w.h/movie/cddf92d0ac6a0db837a1bc488b241c42267927.jpg",
+                    "mk":9.4,
+                    "nm":"中国机长",
+                    "movieType":0,
+                    "pn":427,
+                    "showInfo":"今天227家影院放映3193场",
+                    "showTimeInfo":"2020-05-01上映"
+                }
+            ],
+            "movieids":[]
+        }
+    },
+    "header":{
+        "Server":"openresty",
+        "Date":"Fir,01 May 2020 21:44:55 GMT",
+        "Content-Type":"application/json;charset=UTF-8"
+    },
+    "statusCode":200,
+    "cookies":[],
+    "errMsg":"requestOK"
+}
